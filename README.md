@@ -1,5 +1,5 @@
 # git
-sanple program
+sample program
 welcome to github
 welcome to cbit
 heyy cbit
